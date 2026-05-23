@@ -1,0 +1,11 @@
+project_id = "mkvqyajorvohqnyamjbt"
+
+[functions.check-reminders]
+verify_jwt = false
+
+[functions.ai-assistant]
+verify_jwt = false
+
+[functions.analyze-lab-report]
+verify_jwt = false
+
