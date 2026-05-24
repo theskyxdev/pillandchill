@@ -1,73 +1,59 @@
-# Welcome to your Lovable project
+# 💊 Pill & Chill
+### AI-powered healthcare platform connecting patients and doctors with smarter medical support.
 
-## Project info
+🚀 Live Demo: https://pillandchill.vercel.app/dashboard
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## 🌍 About The Project
+Pill & Chill is a healthcare web application designed to simplify communication between **patients and healthcare providers** while improving access to medical information and support.
 
-There are several ways of editing your application.
+The platform aims to:
+- 🩺 Help patients manage healthcare efficiently
+- 👨‍⚕️ Assist doctors with patient interaction and monitoring
+- 💊 Improve medicine-related awareness and accessibility
+- 📊 Provide a smarter and more organized healthcare experience
 
-**Use Lovable**
+Healthcare should be **faster, accessible, and stress-free** — Pill & Chill works toward that vision.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## ✨ Features
 
-**Use your preferred IDE**
+✅ Patient Dashboard  
+✅ Doctor Interaction Support  
+✅ Medical Information Management  
+✅ User Authentication  
+✅ Responsive UI  
+✅ Modern Healthcare Interface  
+✅ Real-time Accessibility  
+✅ Secure Experience  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🛠 Tech Stack
 
-Follow these steps:
+Frontend:
+- HTML
+- CSS
+- JavaScript
+- React / Next.js *(edit if needed)*
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Backend:
+- Node.js *(edit if needed)*
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Database:
+- MongoDB *(edit if needed)*
 
-# Step 3: Install the necessary dependencies.
-npm i
+Deployment:
+- Vercel
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## 📷 Screenshots
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Add screenshots here:
+<img width="1897" height="1017" alt="image" src="https://github.com/user-attachments/assets/c93701ef-6873-4a2c-ba3f-bea6e115903e" />
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+```md
+![Dashboard](image-link)
